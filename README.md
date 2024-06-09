@@ -35,8 +35,8 @@ The Bus Scheduling and Booking System was designed to streamline the process of 
 
 4. **Set Up the Database**:
     - Open phpMyAdmin from XAMPP Control Panel.
-    - Create a new database named `bus_scheduling`.
-    - Import the `bus_scheduling.sql` file located in the `database` folder.
+    - Create a new database named `busbooking_ezfare`.
+    - Import the `busbooking_ezfare.sql` file located in the `db` folder.
 
 5. **Configure the Database Connection**:
     - Open `config.php` file in the project directory.
@@ -44,14 +44,14 @@ The Bus Scheduling and Booking System was designed to streamline the process of 
 
 6. **Run the Project**:
     - Place the project folder in the `htdocs` directory of XAMPP.
-    - Open a web browser and navigate to `http://localhost/bus_scheduling_booking_system`.
+    - Open a web browser and navigate to `http://localhost/Bus_Scheduling_and_booking_system`.
 
 ## Tests
 
 ### Running Tests
 1. Navigate to the project directory:
     ```sh
-    cd bus_scheduling_booking_system
+    cd Bus_Scheduling_and_booking_system
     ```
 2. Ensure XAMPP is running with Apache and MySQL services.
 3. Use a testing framework or manually test the application by interacting with various features and ensuring proper functionality.
