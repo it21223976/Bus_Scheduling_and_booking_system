@@ -23,11 +23,11 @@ The Bus Scheduling and Booking System was designed to streamline the process of 
 ### Installation Steps
 1. **Clone the Repository**:
     ```sh
-    git clone https://github.com/yourusername/bus_scheduling_booking_system.git
+    git clone https://github.com/it21223976/Bus_Scheduling_and_booking_system.git
     ```
 2. **Move to the Project Directory**:
     ```sh
-    cd bus_scheduling_booking_system
+    cd Bus_Scheduling_and_booking_system
     ```
 3. **Start XAMPP**:
     - Open XAMPP Control Panel.
